@@ -1,4 +1,4 @@
-Java JDom Parse XML Demo
+Java JDom Print XML Demo
 =====================
 
 Use maven for Java.
